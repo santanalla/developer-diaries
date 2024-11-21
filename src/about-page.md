@@ -2,7 +2,7 @@
 title: About.
 author: Miguel Santana
 date: 2024-11-21
-tags: about
+tags: ["about"]
 image: /assets/about.png
 layout: post.njk
 ---
