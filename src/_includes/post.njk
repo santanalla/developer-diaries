@@ -1,0 +1,16 @@
+---
+layout: 'base.njk'
+---
+
+<article class="main-post">
+    <div class="post-container">
+        <span class="post-banner">
+            <h3 class="post-title">{{ title }}</h3>
+            <img src={{image}} alt="Post Cover Image">
+        </span>
+        <div class="post-body">
+            <span><strong>Author:</strong> {{author}} | <strong>Date:</strong> {{date}}</span>
+            {{content | safe}}
+        </div>
+    </div>
+</article>

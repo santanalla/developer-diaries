@@ -1,0 +1,18 @@
+---
+title: /dev/ - Developer's Diaries
+layout: "base.njk"
+image: assets/pixel-desk.jpg
+---
+
+<main>
+  <div class="main-container">
+    <div class="posts-container">
+    {% for post in collections.posts %}
+      <div class="post-element">
+        <a href={{post.url}}><img src={{post.data.image}} alt="post image"></a>
+        <p>{{post.data.title}}</p><br>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+</main>

@@ -1,0 +1,117 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.header-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-banner hr {
+  width: 90%;
+  margin: 0.5em;
+}
+
+.header-banner h2 {
+  margin: 0.5em;
+}
+
+.nav-list ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+}
+
+.nav-list a {
+  text-decoration: none;
+}
+
+.nav-list a:focus,
+.nav-list a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+.posts-container {
+  display: flex;
+  gap: 10px;
+  max-width: 90%;
+  margin-top: 0.5em;
+}
+
+.main-title {
+  margin:0;
+}
+
+.main-container {
+  justify-self: center;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 90%;
+}
+
+.main-container hr {
+  width: 100%;
+}
+
+.main-cover {
+  width: 300px;
+  height: 100px;
+  margin: 0.5em;
+}
+
+.main-post {
+  display: flex;
+  justify-content: center;
+}
+
+.main-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.post-element {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 8em;
+  height: 8em;
+}
+
+.post-element img {
+  width: 100%;
+  aspect-ratio: 1 / 1;  /* defining the aspect ratio of the image */
+  object-fit: cover;
+}
+
+.post-element p {
+  margin: 5;
+  font-weight: bold;
+}
+
+.post-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.post-banner img {
+  width: 300px;
+  height: 100px;
+}
+
+.post-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+.post-title {
+  margin: 0;
+}
