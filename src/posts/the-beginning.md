@@ -4,5 +4,10 @@ author: Miguel Santana
 date: 2022-05-25
 image: /assets/the-beginning.png
 ---
+Everything started in May the 25th, 2022. At the time I was working from home, however I wasn't a software developer. My previous job was mostly something that I had to do to cover the bills (College, transportation, the gym, etc) and something I've always wanted was to work in my field.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate tortor dolor, sed commodo libero vestibulum eu. Aenean rhoncus, risus id egestas ullamcorper, est diam hendrerit enim, eu consequat risus tellus sit amet nibh. Fusce ornare dolor quam, vitae rutrum felis luctus eget. Quisque non mattis erat. Quisque vel tellus quam. Aenean laoreet neque sit amet efficitur accumsan. Maecenas sit amet tempor urna. Morbi ut auctor mauris, ac dignissim risus. Phasellus sollicitudin elit congue orci sollicitudin, non venenatis magna rutrum. Phasellus sed eros iaculis, faucibus lorem sit amet, accumsan justo. Suspendisse ac arcu at urna laoreet lacinia. Fusce quis odio.
+Like any job hunter, I was just sending resumes wherever I could. ATDEV being one of the places, and ofcourse, they quickly replied. I received an email from TestGorilla which I immediately took and almost like clockwork got the email for an interview with Mr. Andres.
+
+What called my attention the most was the location: Coral Mall. As someone that lives in the "Otherside", that was going to be quite a trip. I remember my partner from back then telling me "You're the crazy one for heading there". But hey, always worth giving the shot.
+
+The interview was to this day, the best interview. And me and Andres connected very well. However, at the moment the position was On-Site and with the offered salary, I wanted to take it, but due to the expenses that I had to take care of, I wasn't able to, very unfortunately. So we both left it at "I hope we can see eachother again eventually, I really wanted you to work with us", oh me too... me too...
